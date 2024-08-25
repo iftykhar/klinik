@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+.top-signs{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 2px;
+}
+.tops-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.sec1{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    justify-content: space-between;
+}
+.p5{
+    padding: 0 5px;
+}
+.s3{
+    font-size: 20px;
+    border-radius: 20px;
+    display: block;
+    padding: 6px;
+    background-color: blue;
+    color: white;
+
+}
+.space{
+    justify-content: space-evenly;
+    
+}
