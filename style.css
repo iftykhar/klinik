@@ -33,3 +33,37 @@ body{
     justify-content: space-evenly;
     
 }
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+
+.nav-img{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    justify-content: space-between;
+}
+.nav-menu ul li a{
+    text-decoration: none;
+}
+.nav-ap{
+    background-color: blue;
+    color: white;
+}
+.good-health{
+    background-color: blue;
+    color: white;
+}
+.text-good{
+    width: 50%;
+    display: inline;
+}
+.text-good .row{
+    display: inline-block;
+}
+.img-good{
+    width: 50%; 
+}
